@@ -1,0 +1,12 @@
+vocabulary size  251637
+now the word2idx mapping is done!
+start to transform the data to vector...
+total_list: 25000, total_label: 25000
+training epoch:1: train_loss: 0.560
+Test info: test_loss: 0.006, test_acc: 0.810
+training epoch:2: train_loss: 0.364
+Test info: test_loss: 0.006, test_acc: 0.837
+training epoch:3: train_loss: 0.247
+Test info: test_loss: 0.005, test_acc: 0.859
+training epoch:4: train_loss: 0.160
+Test info: test_loss: 0.006, test_acc: 0.850
