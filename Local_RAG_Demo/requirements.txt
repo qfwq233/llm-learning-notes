@@ -1,0 +1,6 @@
+torch
+pymilvus
+pypdf
+ollama
+langchain_community
+langchain_ollama
